@@ -4,7 +4,7 @@ $(document).ready(function(){
 		url: "MelbourneNightlife.xml",
 		dataType: "xml",
 		success: function(xml) {
-			var select = $('#mySelection');
+			var select = $('#Category');
 
 			$(xml).find('place').each(function(){
 				$(this).find('category').each(function(){
