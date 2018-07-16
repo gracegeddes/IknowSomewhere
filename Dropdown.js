@@ -1,3 +1,5 @@
+var MasterBarType = [];
+
 $(document).ready(function(){
 	$.ajax({
 		type: "GET",
@@ -9,10 +11,15 @@ $(document).ready(function(){
 			$(xml).find('place').each(function(){
 				$(this).find('category').each(function(){
 					var value = $(this).text();
-					select.append("<option value='"+ value +"'>"+value+"</option>");
+					if (jQuery.inArray(value, MasterBarType) == -1){MasterBarType.push(value) };
+					//var Set = new Set(MasterBarType);
+					console.log(MasterBarType);
 				});
 			});
-			select.children(":first").text("Select Make").attr("selected",true);
+			for (var i = MasterBarType.length - 1; i >= 0; i--) {
+				select.append("<option value='"+MasterBarType[i]+"'>"+MasterBarType[i]+"</option>");
+			};
+			select.children(":first").attr("selected",true);
 		} 
 	}); 
 }); 
