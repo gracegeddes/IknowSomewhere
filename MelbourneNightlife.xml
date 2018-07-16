@@ -333,21 +333,21 @@
 
   <place>
     <name>Father's Office</name>
-    <category>Pub</category>
+    <category>Bar</category>
     <ambience>
         <crowd>21-30,Students</crowd>
-        <light>Well Lit</light>
+        <light>Dim</light>
         <structure>Indoors/Outdoors</structure>
         <ideal_occasion>Friends</ideal_occasion>
-        <style>Pub,Trendy</style>
+        <style>Bar,Conservative</style>
         <size>Small</size>
-        <atmosphere>Loud,Lively</atmosphere>
+        <atmosphere>Loud,Energetic</atmosphere>
     </ambience>
     <comments>
         <overall_price>2</overall_price>
         <smoking>Yes</smoking>
         <closing_time>3:00am</closing_time>
-        <dancefloor>No</dancefloor>
+        <dancefloor>Yes</dancefloor>
     </comments>
     <food>
         <available>Yes</available>
@@ -1185,4 +1185,58 @@
         <location>Elizabeth and La Trobe</location>
     </area>
   </place>
+  <place>
+  <name>Trinket</name>
+  <category>Bar</category>
+  <ambience>
+      <crowd>25-40,Young Professional</crowd>
+      <light>Dim</light>
+      <structure>Indoors</structure>
+      <ideal_occasion>Work,Friends</ideal_occasion>
+      <style>Themed</style>
+      <size>Large</size>
+      <atmosphere>Loud,Energetic</atmosphere>
+  </ambience>
+  <comments>
+      <overall_price>2</overall_price>
+      <smoking>No</smoking>
+      <closing_time>1:00 am</closing_time>
+      <dancefloor>No</dancefloor>
+  </comments>
+  <food>
+      <available>Yes</available>
+      <details>Modern French</details>
+  </food>
+  <area>
+      <location>Exhibition and Flinders Lane</location>
+  </area>
+</place>
+<place>
+  <name>Hana</name>
+  <category>Bar</category>
+  <ambience>
+      <crowd>21-30,Young Professional</crowd>
+      <light>Dim</light>
+      <structure>Indoors</structure>
+      <ideal_occasion>Date</ideal_occasion>
+      <style>Themed</style>
+      <size>Small</size>
+      <atmosphere>Lively</atmosphere>
+      <date_type>Icebreaker</date_type>
+  </ambience>
+  <comments>
+      <overall_price>3</overall_price>
+      <smoking>No</smoking>
+      <closing_time>1:00 am</closing_time>
+      <dancefloor>No</dancefloor>
+  </comments>
+  <food>
+      <available>Yes</available>
+      <details>Hawaiian</details>
+  </food>
+  <area>
+      <location>Swanston St and Little Collins</location>
+  </area>
+</place>
+
 </places>
