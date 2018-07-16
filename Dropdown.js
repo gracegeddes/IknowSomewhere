@@ -13,13 +13,32 @@ $(document).ready(function(){
 					var value = $(this).text();
 					if (jQuery.inArray(value, MasterBarType) == -1){MasterBarType.push(value) };
 					//var Set = new Set(MasterBarType);
-					console.log(MasterBarType);
+					// console.log(MasterBarType);
 				});
 			});
 			for (var i = MasterBarType.length - 1; i >= 0; i--) {
 				select.append("<option value='"+MasterBarType[i]+"'>"+MasterBarType[i]+"</option>");
 			};
 			select.children(":first").attr("selected",true);
+
+			var secondSelect = $('#Ambience');
+
+			$(xml).find('place').each(function(){
+				$(this).find('ambience').each(function(){
+					$(this).find('ideal_occasion').each(function(){
+						var valueAmbience = $(this).text();
+						// if (jQuery.inArray(value, MasterBarType) == -1){MasterBarType.push(value) };
+						// //var Set = new Set(MasterBarType);
+						console.log(valueAmbience);
+						secondSelect.append("<option value='"+valueAmbience+"'>"+valueAmbience+"</option>");
+					});
+				});
+			});
+			// for (var i = MasterBarType.length - 1; i >= 0; i--) {
+			// 	select.append("<option value='"+MasterBarType[i]+"'>"+MasterBarType[i]+"</option>");
+			// };
+			// select.children(":first").attr("selected",true);
+
 		} 
 	}); 
 }); 
