@@ -12,7 +12,7 @@
         <ideal_occasion>Date</ideal_occasion>
         <style>Street</style>
         <size>Large</size>
-        <atmosphere>Quiet,Lively,</atmosphere>
+        <atmosphere>Quiet,Lively</atmosphere>
         <date_type>Intimate</date_type>
     </ambience>
     <comments>
@@ -37,11 +37,10 @@
         <crowd>25-40,Professional,Young Professional</crowd>
         <light>Well Lit</light>
         <structure>Outdoors</structure>
-        <ideal_occasion>Friends</ideal_occasion>
-        <ideal_occasion>Work</ideal_occasion>
+        <ideal_occasion>Friends, Work</ideal_occasion>
         <style>Pub, Conservative</style>
         <size>Large</size>
-        <atmosphere>Lively,Loud,Scenic,</atmosphere>
+        <atmosphere>Lively,Loud,Scenic</atmosphere>
     </ambience>
     <comments>
         <overall_price>2</overall_price>
@@ -68,7 +67,7 @@
         <ideal_occasion>Friends</ideal_occasion>
         <style>Themed, Trendy</style>
         <size>Large</size>
-        <atmosphere>Loud, Energetic,</atmosphere>
+        <atmosphere>Loud, Energetic</atmosphere>
     </ambience>
     <comments>
         <overall_price>1</overall_price>
@@ -95,7 +94,7 @@
         <ideal_occasion>Friends,Date</ideal_occasion>
         <style>Street</style>
         <size>Small</size>
-        <atmosphere>Quiet,Chill,Lively,</atmosphere>
+        <atmosphere>Quiet,Chill,Lively</atmosphere>
         <date_type>Icebreaker</date_type>
     </ambience>
     <comments>
@@ -123,7 +122,7 @@
         <ideal_occasion>Friends,Work</ideal_occasion>
         <style>Pub,Conservative</style>
         <size>Large</size>
-        <atmosphere>Loud,Energetic,</atmosphere>
+        <atmosphere>Loud,Energetic</atmosphere>
     </ambience>
     <comments>
         <overall_price>2</overall_price>
@@ -150,7 +149,7 @@
         <ideal_occasion>Date,Friends</ideal_occasion>
         <style>Themed,Trendy</style>
         <size>Small</size>
-        <atmosphere>Quiet,Chill,</atmosphere>
+        <atmosphere>Quiet,Chill</atmosphere>
         <date_type>Intimate</date_type>
     </ambience>
     <comments>
@@ -178,7 +177,7 @@
         <ideal_occasion>Date,Friends,Work</ideal_occasion>
         <style>Themed,Trendy</style>
         <size>Small</size>
-        <atmosphere>Quiet,Chill,Lively,</atmosphere>
+        <atmosphere>Quiet,Chill,Lively</atmosphere>
         <date_type>Intimate</date_type>
     </ambience>
     <comments>
@@ -206,7 +205,7 @@
         <ideal_occasion>Date</ideal_occasion>
         <style>Conservative</style>
         <size>Small</size>
-        <atmosphere>Quiet,Scenic,</atmosphere>
+        <atmosphere>Quiet,Scenic</atmosphere>
         <date_type>Intimate</date_type>
     </ambience>
     <comments>
@@ -234,7 +233,7 @@
         <ideal_occasion>Friends,Date</ideal_occasion>
         <style>Conservative</style>
         <size>Small</size>
-        <atmosphere>Lively,Quiet,</atmosphere>
+        <atmosphere>Lively,Quiet</atmosphere>
         <date_type>Icebreaker</date_type>
     </ambience>
     <comments>
@@ -262,7 +261,7 @@
         <ideal_occasion>Friends,Date</ideal_occasion>
         <style>Themed,Trendy</style>
         <size>Small</size>
-        <atmosphere>Loud,Lively,</atmosphere>
+        <atmosphere>Loud,Lively</atmosphere>
     </ambience>
     <comments>
         <overall_price>3</overall_price>
@@ -288,7 +287,7 @@
         <ideal_occasion>Friends,Work</ideal_occasion>
         <style>Pub</style>
         <size>Large</size>
-        <atmosphere>Loud,Energetic,</atmosphere>
+        <atmosphere>Loud,Energetic</atmosphere>
     </ambience>
     <comments>
         <overall_price>1</overall_price>
@@ -315,7 +314,7 @@
         <ideal_occasion>Friends,Work</ideal_occasion>
         <style>Conservative,Pub</style>
         <size>Large</size>
-        <atmosphere>Chill,Lively,Loud,</atmosphere>
+        <atmosphere>Chill,Lively,Loud</atmosphere>
     </ambience>
     <comments>
         <overall_price>2</overall_price>
@@ -342,7 +341,7 @@
         <ideal_occasion>Friends</ideal_occasion>
         <style>Bar,Conservative</style>
         <size>Small</size>
-        <atmosphere>Loud,Energetic,</atmosphere>
+        <atmosphere>Loud,Energetic</atmosphere>
     </ambience>
     <comments>
         <overall_price>2</overall_price>
@@ -369,7 +368,7 @@
         <ideal_occasion>Date,Friends</ideal_occasion>
         <style>Street</style>
         <size>Small</size>
-        <atmosphere>Chill,Loud,Lively,</atmosphere>
+        <atmosphere>Chill,Loud,Lively</atmosphere>
         <date_type>Intimate</date_type>
     </ambience>
     <comments>
@@ -397,7 +396,7 @@
         <ideal_occasion>Friends,Work</ideal_occasion>
         <style>Themed,Trendy</style>
         <size>Large</size>
-        <atmosphere>Energetic,Loud,</atmosphere>
+        <atmosphere>Energetic,Loud</atmosphere>
     </ambience>
     <comments>
         <overall_price>1</overall_price>
@@ -424,7 +423,7 @@
         <ideal_occasion>Friends,Date</ideal_occasion>
         <style>Conservative</style>
         <size>Small</size>
-        <atmosphere>Quiet,Chill,</atmosphere>
+        <atmosphere>Quiet,Chill</atmosphere>
         <date_type>Intimate</date_type>
     </ambience>
     <comments>
@@ -452,7 +451,7 @@
         <ideal_occasion>Work,Friends,Date</ideal_occasion>
         <style>Themed,Trendy</style>
         <size>Small</size>
-        <atmosphere>Quiet,Lively,</atmosphere>
+        <atmosphere>Quiet,Lively</atmosphere>
         <date_type>Intimate</date_type>
     </ambience>
     <comments>
@@ -480,7 +479,7 @@
         <ideal_occasion>Date,Friends</ideal_occasion>
         <style>Conservative</style>
         <size>Small</size>
-        <atmosphere>Scenic,Lively,Quiet,</atmosphere>
+        <atmosphere>Scenic,Lively,Quiet</atmosphere>
         <date_type>Icebreaker</date_type>
     </ambience>
     <comments>
@@ -508,7 +507,7 @@
         <ideal_occasion>Friends,Date</ideal_occasion>
         <style>Trendy</style>
         <size>Small</size>
-        <atmosphere>Lively,Loud,</atmosphere>
+        <atmosphere>Lively,Loud</atmosphere>
         <date_type>Icebreaker</date_type>
     </ambience>
     <comments>
@@ -536,7 +535,7 @@
         <ideal_occasion>Work,Friends</ideal_occasion>
         <style>Conservative,Pub</style>
         <size>Large</size>
-        <atmosphere>Loud,Energetic,</atmosphere>
+        <atmosphere>Loud,Energetic</atmosphere>
     </ambience>
     <comments>
         <overall_price>1</overall_price>
@@ -563,7 +562,7 @@
         <ideal_occasion>Friends</ideal_occasion>
         <style>Club,Conservative</style>
         <size>Small</size>
-        <atmosphere>Energetic,Loud,</atmosphere>
+        <atmosphere>Energetic,Loud</atmosphere>
     </ambience>
     <comments>
         <overall_price>1</overall_price>
@@ -590,7 +589,7 @@
         <ideal_occasion>Friends</ideal_occasion>
         <style>Conservative,Pub</style>
         <size>Small</size>
-        <atmosphere>Chill,Lively,</atmosphere>
+        <atmosphere>Chill,Lively</atmosphere>
     </ambience>
     <comments>
         <overall_price>2</overall_price>
@@ -617,7 +616,7 @@
         <ideal_occasion>Friends,Date</ideal_occasion>
         <style>Conservative</style>
         <size>Small</size>
-        <atmosphere>Chill,Quiet,</atmosphere>
+        <atmosphere>Chill,Quiet</atmosphere>
         <date_type>Icebreaker</date_type>
     </ambience>
     <comments>
@@ -645,7 +644,7 @@
         <ideal_occasion>Work,Friends,Date</ideal_occasion>
         <style>Conservative,Street</style>
         <size>Large</size>
-        <atmosphere>Loud,Energetic,</atmosphere>
+        <atmosphere>Loud,Energetic</atmosphere>
         <date_type>Icebreaker</date_type>
     </ambience>
     <comments>
@@ -673,7 +672,7 @@
         <ideal_occasion>Friends,Date</ideal_occasion>
         <style>Trendy,Pub</style>
         <size>Small</size>
-        <atmosphere>Chill,Scenic,</atmosphere>
+        <atmosphere>Chill,Scenic</atmosphere>
         <date_type>Icebreaker</date_type>
     </ambience>
     <comments>
@@ -700,7 +699,7 @@
         <ideal_occasion>Work,Friends,Date</ideal_occasion>
         <style>Trendy,Conservative</style>
         <size>Small</size>
-        <atmosphere>Scenic,Loud,Chill,Lively,</atmosphere>
+        <atmosphere>Scenic,Loud,Chill,Lively</atmosphere>
         <date_type>Intimate</date_type>
     </ambience>
     <comments>
@@ -728,7 +727,7 @@
         <ideal_occasion>Friends</ideal_occasion>
         <style>Street,Conservative</style>
         <size>Large</size>
-        <atmosphere>Loud,Energetic,</atmosphere>
+        <atmosphere>Loud,Energetic</atmosphere>
     </ambience>
     <comments>
         <overall_price>1</overall_price>
@@ -755,7 +754,7 @@
         <ideal_occasion>Work,Friends,Date</ideal_occasion>
         <style>Themed,Trendy</style>
         <size>Large</size>
-        <atmosphere>Scenic,Loud,Energetic,</atmosphere>
+        <atmosphere>Scenic,Loud,Energetic</atmosphere>
         <date_type>Intimate</date_type>
     </ambience>
     <comments>
@@ -783,7 +782,7 @@
         <ideal_occasion>Work,Friends</ideal_occasion>
         <style>Conservative,Pub</style>
         <size>Large</size>
-        <atmosphere>Lively,Loud,</atmosphere>
+        <atmosphere>Lively,Loud</atmosphere>
     </ambience>
     <comments>
         <overall_price>1</overall_price>
@@ -810,7 +809,7 @@
         <ideal_occasion>Work,Friends,Date</ideal_occasion>
         <style>Conservative</style>
         <size>Small</size>
-        <atmosphere>Quiet,Chill,Lively,Daddy,</atmosphere>
+        <atmosphere>Quiet,Chill,Lively,Daddy</atmosphere>
         <date_type>Icebreaker</date_type>
     </ambience>
     <comments>
@@ -838,7 +837,7 @@
         <ideal_occasion>Friends</ideal_occasion>
         <style>Trendy</style>
         <size>Large</size>
-        <atmosphere>Loud,Energetic,Daddy,</atmosphere>
+        <atmosphere>Loud,Energetic,Daddy</atmosphere>
     </ambience>
     <comments>
         <overall_price>2</overall_price>
@@ -865,7 +864,7 @@
         <ideal_occasion>Friends,Date</ideal_occasion>
         <style>Street</style>
         <size>Small</size>
-        <atmosphere>Lively,Quiet,</atmosphere>
+        <atmosphere>Lively,Quiet</atmosphere>
         <date_type>Icebreaker</date_type>
     </ambience>
     <comments>
@@ -893,7 +892,7 @@
         <ideal_occasion>Friends,Date</ideal_occasion>
         <style>Trendy</style>
         <size>Small</size>
-        <atmosphere>Energetic,Quiet,</atmosphere>
+        <atmosphere>Energetic,Quiet</atmosphere>
         <date_type>Icebreaker</date_type>
     </ambience>
     <comments>
@@ -921,7 +920,7 @@
         <ideal_occasion>Date,Friends</ideal_occasion>
         <style>Trendy,Conservative</style>
         <size>Small</size>
-        <atmosphere>Scenic,Quiet,Chill,</atmosphere>
+        <atmosphere>Scenic,Quiet,Chill</atmosphere>
         <date_type>Intimate</date_type>
     </ambience>
     <comments>
@@ -949,7 +948,7 @@
         <ideal_occasion>Friends</ideal_occasion>
         <style>Pub</style>
         <size>Large</size>
-        <atmosphere>Loud,Lively,</atmosphere>
+        <atmosphere>Loud,Lively</atmosphere>
     </ambience>
     <comments>
         <overall_price>1</overall_price>
@@ -976,7 +975,7 @@
         <ideal_occasion>Work,Friends,Date</ideal_occasion>
         <style>Trendy,Conservative</style>
         <size>Large</size>
-        <atmosphere>Loud,Lively,</atmosphere>
+        <atmosphere>Loud,Lively</atmosphere>
         <date_type>Icebreaker</date_type>
     </ambience>
     <comments>
@@ -1004,7 +1003,7 @@
         <ideal_occasion>Friends</ideal_occasion>
         <style>Street,Trendy</style>
         <size>Large</size>
-        <atmosphere>Loud,Energetic,</atmosphere>
+        <atmosphere>Loud,Energetic</atmosphere>
     </ambience>
     <comments>
         <overall_price>1</overall_price>
@@ -1030,7 +1029,7 @@
         <ideal_occasion>Friends,Date</ideal_occasion>
         <style>Conservative</style>
         <size>Large</size>
-        <atmosphere>Scenic,Chill,Quiet,Daddy,</atmosphere>
+        <atmosphere>Scenic,Chill,Quiet,Daddy</atmosphere>
         <date_type>Icebreaker</date_type>
     </ambience>
     <comments>
@@ -1058,7 +1057,7 @@
         <ideal_occasion>Friends,Date</ideal_occasion>
         <style>Trendy</style>
         <size>Small</size>
-        <atmosphere>Lively,Loud,</atmosphere>
+        <atmosphere>Lively,Loud</atmosphere>
         <date_type>Icebreaker</date_type>
     </ambience>
     <comments>
@@ -1086,7 +1085,7 @@
         <ideal_occasion>Friends</ideal_occasion>
         <style>Club</style>
         <size>Large</size>
-        <atmosphere>Loud,Energetic,</atmosphere>
+        <atmosphere>Loud,Energetic</atmosphere>
     </ambience>
     <comments>
         <overall_price>2</overall_price>
@@ -1113,7 +1112,7 @@
         <ideal_occasion>Friends,Date</ideal_occasion>
         <style>Trendy</style>
         <size>Small</size>
-        <atmosphere>Chill,Quiet,</atmosphere>
+        <atmosphere>Chill,Quiet</atmosphere>
         <date_type>Icebreaker</date_type>
     </ambience>
     <comments>
@@ -1141,7 +1140,7 @@
         <ideal_occasion>Work,Friends,Date</ideal_occasion>
         <style>Trendy,Conservative</style>
         <size>Large</size>
-        <atmosphere>Quiet,Energetic,Lively,</atmosphere>
+        <atmosphere>Quiet,Energetic,Lively</atmosphere>
         <date_type>Icebreaker</date_type>
     </ambience>
     <comments>
@@ -1169,7 +1168,7 @@
         <ideal_occasion>Friends,Date</ideal_occasion>
         <style>Street</style>
         <size>Large</size>
-        <atmosphere>Loud,Energetic,</atmosphere>
+        <atmosphere>Loud,Energetic</atmosphere>
         <date_type>Intimate</date_type>
     </ambience>
     <comments>
@@ -1196,7 +1195,7 @@
       <ideal_occasion>Work,Friends</ideal_occasion>
       <style>Themed</style>
       <size>Large</size>
-      <atmosphere>Loud,Energetic,</atmosphere>
+      <atmosphere>Loud,Energetic</atmosphere>
   </ambience>
   <comments>
       <overall_price>2</overall_price>
@@ -1222,7 +1221,7 @@
       <ideal_occasion>Date</ideal_occasion>
       <style>Themed</style>
       <size>Small</size>
-      <atmosphere>Lively,</atmosphere>
+      <atmosphere>Lively</atmosphere>
       <date_type>Icebreaker</date_type>
   </ambience>
   <comments>
