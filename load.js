@@ -12,16 +12,23 @@ function LoadDoc () {
 }
 
 function DisplayBars(xml) {
+  var e = document.getElementById("Category");
+  var categoryType = e.options[e.selectedIndex].text;
+  console.log(categoryType);
   var i;
   var xmlDoc = xml.responseXML;
   var table="<tr><th>Bar</th><th>Title</th></tr>";
   var x = xmlDoc.getElementsByTagName("place");
   for (i = 0; i <x.length; i++) { 
-    table += "<tr><td>" +
-    x[i].getElementsByTagName("name")[0].childNodes[0].nodeValue +
-    "</td><td>" +
-    x[i].getElementsByTagName("category")[0].childNodes[0].nodeValue +
-    "</td></tr>";
+    if (x[i].getElementsByTagName("category")[0].childNodes[0].nodeValue != categoryType) {skip;}
+    else {
+      table += "<tr><td>" +
+      x[i].getElementsByTagName("name")[0].childNodes[0].nodeValue +
+      "</td><td>" +
+      x[i].getElementsByTagName("category")[0].childNodes[0].nodeValue +
+      "</td></tr>";
+    }
+
   }
   document.getElementById("Bars").innerHTML = table;
 }
