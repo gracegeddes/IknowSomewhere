@@ -20,7 +20,7 @@ function DisplayBars(xml) {
   var table="<tr><th>Bar</th><th>Title</th></tr>";
   var x = xmlDoc.getElementsByTagName("place");
   for (i = 0; i <x.length; i++) { 
-    if (x[i].getElementsByTagName("category")[0].childNodes[0].nodeValue != categoryType) {skip;}
+    if (x[i].getElementsByTagName("category")[0].childNodes[0].nodeValue != categoryType) {continue;}
     else {
       table += "<tr><td>" +
       x[i].getElementsByTagName("name")[0].childNodes[0].nodeValue +
@@ -32,3 +32,7 @@ function DisplayBars(xml) {
   }
   document.getElementById("Bars").innerHTML = table;
 }
+
+// function filterOccasion(xml) {
+  
+// }

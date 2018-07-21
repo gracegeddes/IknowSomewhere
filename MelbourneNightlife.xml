@@ -1,0 +1,1427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<places>
+  <place>
+    <name>A Street</name>
+    <category>Other</category>
+    <ambience>
+        <crowd>18-21</crowd>
+        <crowd>21-40</crowd>
+        <light>Dark</light>
+        <structure>Outdoors</structure>
+        <ideal_occasion>Date</ideal_occasion>
+        <style>Street</style>
+        <size>Large</size>
+        <atmosphere>Quiet</atmosphere>
+        <atmosphere>Lively</atmosphere>
+        <date_type>Intimate</date_type>
+    </ambience>
+    <comments>
+        <overall_price>1</overall_price>
+        <smoking>Yes</smoking>
+        <closing_time>12:00am</closing_time>
+        <dancefloor>No</dancefloor>
+    </comments>
+    <food>
+        <available>Yes</available>
+        <details>Whatever</details>
+    </food>
+    <area>
+        <location>Anywhere</location>
+    </area>
+  </place>
+
+  <place>
+    <name>The Arbory</name>
+    <category>Bar</category>
+    <ambience>
+        <crowd>25-40</crowd>
+        <crowd>Professional</crowd>
+        <crowd>Young Professional</crowd>
+        <light>Well Lit</light>
+        <structure>Outdoors</structure>
+        <ideal_occasion>Friends</ideal_occasion>
+        <ideal_occasion>Work</ideal_occasion>
+        <style>Pub</style>
+        <style>Conservative</style>
+        <size>Large</size>
+        <atmosphere>Lively</atmosphere>
+        <atmosphere>Loud</atmosphere>
+        <atmosphere>Scenic</atmosphere>
+    </ambience>
+    <comments>
+        <overall_price>2</overall_price>
+        <smoking>Yes</smoking>
+        <closing_time>1:00am</closing_time>
+        <dancefloor>No</dancefloor>
+    </comments>
+    <food>
+        <available>Yes</available>
+        <details>Grill</details>
+    </food>
+    <area>
+        <location>Flinders Street Station</location>
+    </area>
+  </place>
+
+  <place>
+    <name>Asian Beer Cafe</name>
+    <category>Bar</category>
+    <ambience>
+        <crowd>18-21</crowd>
+        <crowd>Students</crowd>
+        <light>Dim</light>
+        <structure>Indoors/Outdoors</structure>
+        <ideal_occasion>Friends</ideal_occasion>
+        <style>Themed</style>
+        <style>Trendy</style>
+        <size>Large</size>
+        <atmosphere>Loud</atmosphere>
+        <atmosphere>Energetic</atmosphere>
+    </ambience>
+    <comments>
+        <overall_price>1</overall_price>
+        <smoking>Yes</smoking>
+        <closing_time>1:00am</closing_time>
+        <dancefloor>Yes</dancefloor>
+    </comments>
+    <food>
+        <available>Yes</available>
+        <details>Pub Food</details>
+    </food>
+    <area>
+        <location>Melbourne Central</location>
+    </area>
+  </place>
+
+  <place>
+    <name>Bar Ampere</name>
+    <category>Bar</category>
+    <ambience>
+        <crowd>21-30</crowd>
+        <crowd>Young Professional</crowd>
+        <light>Well Lit</light>
+        <structure>Indoors/Outdoors</structure>
+        <ideal_occasion>Friends</ideal_occasion>
+        <ideal_occasion>Date</ideal_occasion>
+        <style>Street</style>
+        <size>Small</size>
+        <atmosphere>Quiet</atmosphere>
+        <atmosphere>Chill</atmosphere>
+        <atmosphere>Lively</atmosphere>
+        <date_type>Icebreaker</date_type>
+    </ambience>
+    <comments>
+        <overall_price>3</overall_price>
+        <smoking>Yes</smoking>
+        <closing_time>3:00am</closing_time>
+        <dancefloor>No</dancefloor>
+    </comments>
+    <food>
+        <available>Yes</available>
+        <details>Light Meals</details>
+        <details>Burgers</details>
+    </food>
+    <area>
+        <location>Bourke and Swanston</location>
+    </area>
+  </place>
+
+  <place>
+    <name>Beer Deluxe</name>
+    <category>Pub</category>
+    <ambience>
+        <crowd>25-40</crowd>
+        <crowd>Professional</crowd>
+        <light>Well Lit</light>
+        <structure>Indoors/Outdoors</structure>
+        <ideal_occasion>Friends</ideal_occasion>
+        <ideal_occasion>Work</ideal_occasion>
+        <style>Pub</style>
+        <style>Conservative</style>
+        <size>Large</size>
+        <atmosphere>Loud</atmosphere>
+        <atmosphere>Energetic</atmosphere>
+    </ambience>
+    <comments>
+        <overall_price>2</overall_price>
+        <smoking>Yes</smoking>
+        <closing_time>12:00am</closing_time>
+        <dancefloor>No</dancefloor>
+    </comments>
+    <food>
+        <available>Yes</available>
+        <details>Pub Food</details>
+    </food>
+    <area>
+        <location>Federation Square</location>
+    </area>
+  </place>
+
+  <place>
+    <name>Beneath Driver Lane</name>
+    <category>Bar</category>
+    <ambience>
+        <crowd>18-21</crowd>
+        <crowd>21-40</crowd>
+        <crowd>Young Professional</crowd>
+        <light>Dim</light>
+        <structure>Indoors</structure>
+        <ideal_occasion>Date</ideal_occasion>
+        <ideal_occasion>Friends</ideal_occasion>
+        <style>Themed</style>
+        <style>Trendy</style>
+        <size>Small</size>
+        <atmosphere>Quiet</atmosphere>
+        <atmosphere>Chill</atmosphere>
+        <date_type>Intimate</date_type>
+    </ambience>
+    <comments>
+        <overall_price>3</overall_price>
+        <smoking>No</smoking>
+        <closing_time>3:00am</closing_time>
+        <dancefloor>No</dancefloor>
+    </comments>
+    <food>
+        <available>Yes</available>
+        <details>Light Meals</details>
+    </food>
+    <area>
+        <location>Little Bourke and Elizabeth</location>
+    </area>
+  </place>
+
+  <place>
+    <name>Berlin Bar</name>
+    <category>Bar</category>
+    <ambience>
+        <crowd>21-40</crowd>
+        <crowd>Young Professional</crowd>
+        <crowd>Professional</crowd>
+        <light>Dim</light>
+        <structure>Indoors</structure>
+        <ideal_occasion>Date</ideal_occasion>
+        <ideal_occasion>Friends</ideal_occasion>
+        <ideal_occasion>Work</ideal_occasion>
+        <style>Themed</style>
+        <style>Trendy</style>
+        <size>Small</size>
+        <atmosphere>Quiet</atmosphere>
+        <atmosphere>Chill</atmosphere>
+        <atmosphere>Lively</atmosphere>
+        <date_type>Intimate</date_type>
+    </ambience>
+    <comments>
+        <overall_price>3</overall_price>
+        <smoking>No</smoking>
+        <closing_time>12:00am</closing_time>
+        <dancefloor>No</dancefloor>
+    </comments>
+    <food>
+        <available>Yes</available>
+        <details>Light Meals</details>
+    </food>
+    <area>
+        <location>Londsale and Russell</location>
+    </area>
+  </place>
+
+  <place>
+    <name>Bomba Rooftop</name>
+    <category>Bar</category>
+    <ambience>
+        <crowd>25-40</crowd>
+        <crowd>Young Professional</crowd>
+        <crowd>Professional</crowd>
+        <light>Dim</light>
+        <structure>Rooftop</structure>
+        <ideal_occasion>Date</ideal_occasion>
+        <style>Conservative</style>
+        <size>Small</size>
+        <atmosphere>Quiet</atmosphere>
+        <atmosphere>Scenic</atmosphere>
+        <date_type>Intimate</date_type>
+    </ambience>
+    <comments>
+        <overall_price>3</overall_price>
+        <smoking>No</smoking>
+        <closing_time>2:00am</closing_time>
+        <dancefloor>No</dancefloor>
+    </comments>
+    <food>
+        <available>Yes</available>
+        <details>Tapas</details>
+    </food>
+    <area>
+        <location>Exhibition and Londsale</location>
+    </area>
+  </place>
+
+  <place>
+    <name>City Wine Shop</name>
+    <category>Bar</category>
+    <ambience>
+        <crowd>25-40</crowd>
+        <crowd>Young Professional</crowd>
+        <crowd>Professional</crowd>
+        <light>Well Lit</light>
+        <structure>Indoors</structure>
+        <ideal_occasion>Friends</ideal_occasion>
+        <ideal_occasion>Date</ideal_occasion>
+        <style>Conservative</style>
+        <size>Small</size>
+        <atmosphere>Lively</atmosphere>
+        <atmosphere>Quiet</atmosphere>
+        <date_type>Icebreaker</date_type>
+    </ambience>
+    <comments>
+        <overall_price>3</overall_price>
+        <smoking>No</smoking>
+        <closing_time>12:00am</closing_time>
+        <dancefloor>No</dancefloor>
+    </comments>
+    <food>
+        <available>Yes</available>
+        <details>Light Meals</details>
+    </food>
+    <area>
+        <location>Spring and Little Bourke</location>
+    </area>
+  </place>
+
+  <place>
+    <name>The Croft Institute</name>
+    <category>Bar</category>
+    <ambience>
+        <crowd>25-40</crowd>
+        <crowd>Professional</crowd>
+        <light>Dim</light>
+        <structure>Indoors</structure>
+        <ideal_occasion>Friends</ideal_occasion>
+        <ideal_occasion>Date</ideal_occasion>
+        <style>Themed</style>
+        <style>Trendy</style>
+        <size>Small</size>
+        <atmosphere>Loud</atmosphere>
+        <atmosphere>Lively</atmosphere>
+    </ambience>
+    <comments>
+        <overall_price>3</overall_price>
+        <smoking>No</smoking>
+        <closing_time>3:00am</closing_time>
+        <dancefloor>Yes</dancefloor>
+    </comments>
+    <food>
+        <available>No</available>
+    </food>
+    <area>
+        <location>Swanston and Little Bourke</location>
+    </area>
+  </place>
+
+  <place>
+    <name>The Duke of Wellington</name>
+    <category>Pub</category>
+    <ambience>
+        <crowd>25-40</crowd>
+        <crowd>Professional</crowd>
+        <crowd>Students</crowd>
+        <light>Well Lit</light>
+        <structure>Indoors</structure>
+        <ideal_occasion>Friends</ideal_occasion>
+        <ideal_occasion>Work</ideal_occasion>
+        <style>Pub</style>
+        <size>Large</size>
+        <atmosphere>Loud</atmosphere>
+        <atmosphere>Energetic</atmosphere>
+    </ambience>
+    <comments>
+        <overall_price>1</overall_price>
+        <smoking>Yes</smoking>
+        <closing_time>1:00am</closing_time>
+        <dancefloor>No</dancefloor>
+    </comments>
+    <food>
+        <available>Yes</available>
+        <details>Pub Food</details>
+    </food>
+    <area>
+        <location>Exhibition and Flinders</location>
+    </area>
+  </place>
+
+  <place>
+    <name>European Bier Cafe</name>
+    <category>Pub</category>
+    <ambience>
+        <crowd>21-30</crowd>
+        <crowd>Young Professional</crowd>
+        <crowd>Students</crowd>
+        <light>Well Lit</light>
+        <structure>Indoors/Outdoors</structure>
+        <ideal_occasion>Friends</ideal_occasion>
+        <ideal_occasion>Work</ideal_occasion>
+        <style>Conservative</style>
+        <style>Pub</style>
+        <size>Large</size>
+        <atmosphere>Chill</atmosphere>
+        <atmosphere>Lively</atmosphere>
+        <atmosphere>Loud</atmosphere>
+    </ambience>
+    <comments>
+        <overall_price>2</overall_price>
+        <smoking>No</smoking>
+        <closing_time>3:00am</closing_time>
+        <dancefloor>No</dancefloor>
+    </comments>
+    <food>
+        <available>Yes</available>
+        <details>Pub Food</details>
+    </food>
+    <area>
+        <location>Exhibiton and Little Collins</location>
+    </area>
+  </place>
+
+  <place>
+    <name>Father's Office</name>
+    <category>Bar</category>
+    <ambience>
+        <crowd>21-30</crowd>
+        <crowd>Students</crowd>
+        <light>Dim</light>
+        <structure>Indoors/Outdoors</structure>
+        <ideal_occasion>Friends</ideal_occasion>
+        <style>Bar</style>
+        <style>Conservative</style>
+        <size>Small</size>
+        <atmosphere>Loud</atmosphere>
+        <atmosphere>Energetic</atmosphere>
+    </ambience>
+    <comments>
+        <overall_price>2</overall_price>
+        <smoking>Yes</smoking>
+        <closing_time>3:00am</closing_time>
+        <dancefloor>Yes</dancefloor>
+    </comments>
+    <food>
+        <available>Yes</available>
+        <details>Pub Food</details>
+    </food>
+    <area>
+        <location>QV Centre</location>
+    </area>
+  </place>
+
+  <place>
+    <name>Ferdydurke</name>
+    <category>Bar</category>
+    <ambience>
+        <crowd>21-30</crowd>
+        <crowd>Hipster</crowd>
+        <light>Dark</light>
+        <structure>Indoors</structure>
+        <ideal_occasion>Date</ideal_occasion>
+        <ideal_occasion>Friends</ideal_occasion>
+        <style>Street</style>
+        <size>Small</size>
+        <atmosphere>Chill</atmosphere>
+        <atmosphere>Loud</atmosphere>
+        <atmosphere>Lively</atmosphere>
+        <date_type>Intimate</date_type>
+    </ambience>
+    <comments>
+        <overall_price>2</overall_price>
+        <smoking>Yes</smoking>
+        <closing_time>3:00am</closing_time>
+        <dancefloor>No</dancefloor>
+    </comments>
+    <food>
+        <available>Yes</available>
+        <details>Hotdogs</details>
+    </food>
+    <area>
+        <location>Swanston and Little Bourke</location>
+    </area>
+  </place>
+
+  <place>
+    <name>Fiftyfive</name>
+    <category>Bar</category>
+    <ambience>
+        <crowd>21-30</crowd>
+        <crowd>Hipster</crowd>
+        <light>Well Lit</light>
+        <structure>Indoors</structure>
+        <ideal_occasion>Friends</ideal_occasion>
+        <ideal_occasion>Work</ideal_occasion>
+        <style>Themed</style>
+        <style>Trendy</style>
+        <size>Large</size>
+        <atmosphere>Energetic</atmosphere>
+        <atmosphere>Loud</atmosphere>
+    </ambience>
+    <comments>
+        <overall_price>1</overall_price>
+        <smoking>No</smoking>
+        <closing_time>3:00am</closing_time>
+        <dancefloor>No</dancefloor>
+    </comments>
+    <food>
+        <available>Yes</available>
+        <details>Pizza</details>
+    </food>
+    <area>
+        <location>Elizabeth and Collins</location>
+    </area>
+  </place>
+
+  <place>
+    <name>Gin Palace</name>
+    <category>Bar</category>
+    <ambience>
+        <crowd>25-40</crowd>
+        <crowd>Professional</crowd>
+        <light>Dark</light>
+        <structure>Indoors</structure>
+        <ideal_occasion>Friends</ideal_occasion>
+        <ideal_occasion>Date</ideal_occasion>
+        <style>Conservative</style>
+        <size>Small</size>
+        <atmosphere>Quiet</atmosphere>
+        <atmosphere>Chill</atmosphere>
+        <date_type>Intimate</date_type>
+    </ambience>
+    <comments>
+        <overall_price>3</overall_price>
+        <smoking>No</smoking>
+        <closing_time>3:00am</closing_time>
+        <dancefloor>No</dancefloor>
+    </comments>
+    <food>
+        <available>Yes</available>
+        <details>Charcuterie</details>
+    </food>
+    <area>
+        <location>Bourke and Swanston</location>
+    </area>
+  </place>
+
+  <place>
+    <name>Glamp Cocktail Bar/Polēpolē</name>
+    <category>Bar</category>
+    <ambience>
+        <crowd>21-20</crowd>
+        <crowd>Young Professional</crowd>
+        <light>Dark</light>
+        <structure>Indoors</structure>
+        <ideal_occasion>Work</ideal_occasion>
+        <ideal_occasion>Friends</ideal_occasion>
+        <ideal_occasion>Date</ideal_occasion>
+        <style>Themed</style>
+        <style>Trendy</style>
+        <size>Small</size>
+        <atmosphere>Quiet</atmosphere>
+        <atmosphere>Lively</atmosphere>
+        <date_type>Intimate</date_type>
+    </ambience>
+    <comments>
+        <overall_price>2</overall_price>
+        <smoking>No</smoking>
+        <closing_time>2:00 am</closing_time>
+        <dancefloor>No</dancefloor>
+    </comments>
+    <food>
+        <available>Yes</available>
+        <details>Light Meals</details>
+    </food>
+    <area>
+        <location>Little Collins and Swanston</location>
+    </area>
+  </place>
+
+  <place>
+    <name>Goldilocks</name>
+    <category>Bar</category>
+    <ambience>
+        <crowd>25-40</crowd>
+        <crowd>Young Professional</crowd>
+        <light>Well Lit</light>
+        <structure>Rooftop</structure>
+        <ideal_occasion>Date</ideal_occasion>
+        <ideal_occasion>Friends</ideal_occasion>
+        <style>Conservative</style>
+        <size>Small</size>
+        <atmosphere>Scenic</atmosphere>
+        <atmosphere>Lively</atmosphere>
+        <atmosphere>Quiet</atmosphere>
+        <date_type>Icebreaker</date_type>
+    </ambience>
+    <comments>
+        <overall_price>2</overall_price>
+        <smoking>No</smoking>
+        <closing_time>3:00 am</closing_time>
+        <dancefloor>No</dancefloor>
+    </comments>
+    <food>
+        <available>Yes</available>
+        <details>Light Meals</details>
+    </food>
+    <area>
+        <location>Swanston and Lonsdale</location>
+    </area>
+  </place>
+
+  <place>
+    <name>Good Heavens</name>
+    <category>Bar</category>
+    <ambience>
+        <crowd>21-30</crowd>
+        <crowd>Young Professional</crowd>
+        <light>Well Lit</light>
+        <structure>Outdoors</structure>
+        <ideal_occasion>Friends</ideal_occasion>
+        <ideal_occasion>Date</ideal_occasion>
+        <style>Trendy</style>
+        <size>Small</size>
+        <atmosphere>Lively</atmosphere>
+        <atmosphere>Loud</atmosphere>
+        <date_type>Icebreaker</date_type>
+    </ambience>
+    <comments>
+        <overall_price>2</overall_price>
+        <smoking>No</smoking>
+        <closing_time>1:00 am</closing_time>
+        <dancefloor>No</dancefloor>
+    </comments>
+    <food>
+        <available>Yes</available>
+        <details>American</details>
+    </food>
+    <area>
+        <location>Bourke and Exhibition</location>
+    </area>
+  </place>
+
+  <place>
+    <name>Imperial Hotel</name>
+    <category>Pub</category>
+    <ambience>
+        <crowd>21-30</crowd>
+        <crowd>Young Professional</crowd>
+        <light>Well Lit</light>
+        <structure>Rooftop</structure>
+        <ideal_occasion>Work</ideal_occasion>
+        <ideal_occasion>Friends</ideal_occasion>
+        <style>Conservative</style>
+        <style>Pub</style>
+        <size>Large</size>
+        <atmosphere>Loud</atmosphere>
+        <atmosphere>Energetic</atmosphere>
+    </ambience>
+    <comments>
+        <overall_price>1</overall_price>
+        <smoking>Yes</smoking>
+        <closing_time>1:00 am</closing_time>
+        <dancefloor>No</dancefloor>
+    </comments>
+    <food>
+        <available>Yes</available>
+        <details>Pub Food</details>
+    </food>
+    <area>
+        <location>Bourke and Spring</location>
+    </area>
+  </place>
+
+  <place>
+    <name>The Joint Bar</name>
+    <category>Pub</category>
+    <ambience>
+        <crowd>18-21</crowd>
+        <crowd>Students</crowd>
+        <light>Dim</light>
+        <structure>Indoors/Outdoors</structure>
+        <ideal_occasion>Friends</ideal_occasion>
+        <style>Club</style>
+        <style>Conservative</style>
+        <size>Small</size>
+        <atmosphere>Energetic</atmosphere>
+        <atmosphere>Loud</atmosphere>
+    </ambience>
+    <comments>
+        <overall_price>1</overall_price>
+        <smoking>Yes</smoking>
+        <closing_time>5:00 am</closing_time>
+        <dancefloor>Yes</dancefloor>
+    </comments>
+    <food>
+        <available>Yes</available>
+        <details>Pub Food</details>
+    </food>
+    <area>
+        <location>Elizabeth and Flinders Lane</location>
+    </area>
+  </place>
+
+  <place>
+    <name>Kirk's Pub</name>
+    <category>Pub</category>
+    <ambience>
+        <crowd>25-40</crowd>
+        <crowd>Professional</crowd>
+        <crowd>Young Professional</crowd>
+        <light>Well Lit</light>
+        <structure>Indoors</structure>
+        <ideal_occasion>Friends</ideal_occasion>
+        <style>Conservative</style>
+        <style>Pub</style>
+        <size>Small</size>
+        <atmosphere>Chill</atmosphere>
+        <atmosphere>Lively</atmosphere>
+    </ambience>
+    <comments>
+        <overall_price>2</overall_price>
+        <smoking>No</smoking>
+        <closing_time>11:00 pm</closing_time>
+        <dancefloor>No</dancefloor>
+    </comments>
+    <food>
+        <available>Yes</available>
+        <details>Italian</details>
+    </food>
+    <area>
+        <location>Hardware Lane</location>
+    </area>
+  </place>
+
+  <place>
+    <name>Kirk's Wine Bar</name>
+    <category>Bar</category>
+    <ambience>
+        <crowd>25-40</crowd>
+        <crowd>Professional</crowd>
+        <light>Well Lit</light>
+        <structure>Indoors</structure>
+        <ideal_occasion>Friends</ideal_occasion>
+        <ideal_occasion>Date</ideal_occasion>
+        <style>Conservative</style>
+        <size>Small</size>
+        <atmosphere>Chill</atmosphere>
+        <atmosphere>Quiet</atmosphere>
+        <date_type>Icebreaker</date_type>
+    </ambience>
+    <comments>
+        <overall_price>3</overall_price>
+        <smoking>No</smoking>
+        <closing_time>11:00 pm</closing_time>
+        <dancefloor>No</dancefloor>
+    </comments>
+    <food>
+        <available>Yes</available>
+        <details>Italian</details>
+    </food>
+    <area>
+        <location>Hardware Lane</location>
+    </area>
+  </place>
+
+  <place>
+    <name>Lane's Edge</name>
+    <category>Bar</category>
+    <ambience>
+        <crowd>18-25</crowd>
+        <crowd>Young Professional</crowd>
+        <crowd>Students</crowd>
+        <crowd>Hipster</crowd>
+        <light>Well Lit</light>
+        <structure>Outdoors</structure>
+        <ideal_occasion>Work</ideal_occasion>
+        <ideal_occasion>Friends</ideal_occasion>
+        <ideal_occasion>Date</ideal_occasion>
+        <style>Conservative</style>
+        <style>Street</style>
+        <size>Large</size>
+        <atmosphere>Loud</atmosphere>
+        <atmosphere>Energetic</atmosphere>
+        <date_type>Icebreaker</date_type>
+    </ambience>
+    <comments>
+        <overall_price>1</overall_price>
+        <smoking>Yes</smoking>
+        <closing_time>1:00 am</closing_time>
+        <dancefloor>No</dancefloor>
+    </comments>
+    <food>
+        <available>Yes</available>
+        <details>Mediterranean</details>
+    </food>
+    <area>
+        <location>Bourke and Spring</location>
+    </area>
+  </place>
+
+  <place>
+    <name>Loch and Key</name>
+    <category>Bar</category>
+    <ambience>
+        <crowd>18-25</crowd>
+        <crowd>Students</crowd>
+        <crowd>Hipster</crowd>
+        <light>Dim</light>
+        <structure>Indoors/Outdoors</structure>
+        <ideal_occasion>Friends</ideal_occasion>
+        <ideal_occasion>Date</ideal_occasion>
+        <style>Trendy</style>
+        <style>Pub</style>
+        <size>Small</size>
+        <atmosphere>Chill</atmosphere>
+        <atmosphere>Scenic</atmosphere>
+        <date_type>Icebreaker</date_type>
+    </ambience>
+    <comments>
+        <overall_price>1</overall_price>
+        <smoking>Yes</smoking>
+        <closing_time>7:00 am</closing_time>
+        <dancefloor>No</dancefloor>
+    </comments>
+    <food>
+        <available>No</available>
+    </food>
+    <area>
+        <location>Franklin Street</location>
+    </area>
+  </place>
+
+  <place>
+    <name>Loop Roof</name>
+    <category>Bar</category>
+    <ambience>
+        <crowd>21-30</crowd>
+        <crowd>Young Professional</crowd>
+        <light>Well Lit</light>
+        <structure>Rooftop</structure>
+        <ideal_occasion>Work</ideal_occasion>
+        <ideal_occasion>Friends</ideal_occasion>
+        <ideal_occasion>Date</ideal_occasion>
+        <style>Trendy</style>
+        <style>Conservative</style>
+        <size>Small</size>
+        <atmosphere>Scenic</atmosphere>
+        <atmosphere>Loud</atmosphere>
+        <atmosphere>Chill</atmosphere>
+        <atmosphere>Lively</atmosphere>
+        <date_type>Intimate</date_type>
+    </ambience>
+    <comments>
+        <overall_price>2</overall_price>
+        <smoking>Yes</smoking>
+        <closing_time>1:00 am</closing_time>
+        <dancefloor>No</dancefloor>
+    </comments>
+    <food>
+        <available>Yes</available>
+        <details>American</details>
+    </food>
+    <area>
+        <location>Bourke and Spring</location>
+    </area>
+  </place>
+
+  <place>
+    <name>Lounge</name>
+    <category>Bar</category>
+    <ambience>
+        <crowd>18-21</crowd>
+        <crowd>Students</crowd>
+        <light>Dark</light>
+        <structure>Indoors/Outdoors</structure>
+        <ideal_occasion>Friends</ideal_occasion>
+        <style>Street</style>
+        <style>Conservative</style>
+        <size>Large</size>
+        <atmosphere>Loud</atmosphere>
+        <atmosphere>Energetic</atmosphere>
+    </ambience>
+    <comments>
+        <overall_price>1</overall_price>
+        <smoking>Yes</smoking>
+        <closing_time>6:00 am</closing_time>
+        <dancefloor>Yes</dancefloor>
+    </comments>
+    <food>
+        <available>Yes</available>
+        <details>Pub Food</details>
+    </food>
+    <area>
+        <location>Swanston and Little Bourke</location>
+    </area>
+  </place>
+
+  <place>
+    <name>Madame Brussels</name>
+    <category>Bar</category>
+    <ambience>
+        <crowd>21-30</crowd>
+        <crowd>Young Professional</crowd>
+        <crowd>Hipster</crowd>
+        <light>Well Lit</light>
+        <structure>Rooftop</structure>
+        <ideal_occasion>Work</ideal_occasion>
+        <ideal_occasion>Friends</ideal_occasion>
+        <ideal_occasion>Date</ideal_occasion>
+        <style>Themed</style>
+        <style>Trendy</style>
+        <size>Large</size>
+        <atmosphere>Scenic</atmosphere>
+        <atmosphere>Loud</atmosphere>
+        <atmosphere>Energetic</atmosphere>
+        <date_type>Intimate</date_type>
+    </ambience>
+    <comments>
+        <overall_price>2</overall_price>
+        <smoking>Yes</smoking>
+        <closing_time>1:00 am</closing_time>
+        <dancefloor>No</dancefloor>
+    </comments>
+    <food>
+        <available>Yes</available>
+        <details>Charcuterie</details>
+    </food>
+    <area>
+        <location>Bourke and Russell</location>
+    </area>
+  </place>
+
+  <place>
+    <name>Melbourne Central Lion</name>
+    <category>Pub</category>
+    <ambience>
+        <crowd>18-21</crowd>
+        <crowd>Students</crowd>
+        <light>Well Lit</light>
+        <structure>Indoors</structure>
+        <ideal_occasion>Work</ideal_occasion>
+        <ideal_occasion>Friends</ideal_occasion>
+        <style>Conservative</style>
+        <style>Pub</style>
+        <size>Large</size>
+        <atmosphere>Lively</atmosphere>
+        <atmosphere>Loud</atmosphere>
+    </ambience>
+    <comments>
+        <overall_price>1</overall_price>
+        <smoking>No</smoking>
+        <closing_time>3:00 am</closing_time>
+        <dancefloor>Yes</dancefloor>
+    </comments>
+    <food>
+        <available>Yes</available>
+        <details>Pub Food</details>
+    </food>
+    <area>
+        <location>Melbourne Central</location>
+    </area>
+  </place>
+
+  <place>
+    <name>Mesa Verde</name>
+    <category>Bar</category>
+    <ambience>
+        <crowd>21-30</crowd>
+        <crowd>Young Professional</crowd>
+        <light>Well Lit</light>
+        <structure>Indoors</structure>
+        <ideal_occasion>Work</ideal_occasion>
+        <ideal_occasion>Friends</ideal_occasion>
+        <ideal_occasion>Date</ideal_occasion>
+        <style>Conservative</style>
+        <size>Small</size>
+        <atmosphere>Quiet</atmosphere>
+        <atmosphere>Chill</atmosphere>
+        <atmosphere>Lively</atmosphere>
+        <atmosphere>Daddy</atmosphere>
+        <date_type>Icebreaker</date_type>
+    </ambience>
+    <comments>
+        <overall_price>3</overall_price>
+        <smoking>No</smoking>
+        <closing_time>1:00 am</closing_time>
+        <dancefloor>No</dancefloor>
+    </comments>
+    <food>
+        <available>Yes</available>
+        <details>Mexican</details>
+    </food>
+    <area>
+        <location>Swanston and Little Bourke</location>
+    </area>
+  </place>
+
+  <place>
+    <name>The Mill House</name>
+    <category>Bar</category>
+    <ambience>
+        <crowd>21-30</crowd>
+        <crowd>Young Professional</crowd>
+        <light>Well Lit</light>
+        <structure>Indoors</structure>
+        <ideal_occasion>Friends</ideal_occasion>
+        <style>Trendy</style>
+        <size>Large</size>
+        <atmosphere>Loud</atmosphere>
+        <atmosphere>Energetic</atmosphere>
+        <atmosphere>Daddy</atmosphere>
+    </ambience>
+    <comments>
+        <overall_price>2</overall_price>
+        <smoking>No</smoking>
+        <closing_time>3:00 am</closing_time>
+        <dancefloor>Yes</dancefloor>
+    </comments>
+    <food>
+        <available>Yes</available>
+        <details>Pub Food</details>
+    </food>
+    <area>
+        <location>Elizabeth and Flinders Lane</location>
+    </area>
+  </place>
+
+  <place>
+    <name>Penny Blue</name>
+    <category>Bar</category>
+    <ambience>
+        <crowd>25-40</crowd>
+        <crowd>Professional</crowd>
+        <crowd>Students</crowd>
+        <light>Dim</light>
+        <structure>Indoors</structure>
+        <ideal_occasion>Friends</ideal_occasion>
+        <ideal_occasion>Date</ideal_occasion>
+        <style>Street</style>
+        <size>Small</size>
+        <atmosphere>Lively</atmosphere>
+        <atmosphere>Quiet</atmosphere>
+        <date_type>Icebreaker</date_type>
+    </ambience>
+    <comments>
+        <overall_price>2</overall_price>
+        <smoking>No</smoking>
+        <closing_time>12:00 am</closing_time>
+        <dancefloor>No</dancefloor>
+    </comments>
+    <food>
+        <available>Yes</available>
+        <details>Light Meals</details>
+    </food>
+    <area>
+        <location>Little Bourke and Elizabeth</location>
+    </area>
+  </place>
+
+  <place>
+    <name>Pizza Pizza Pizza</name>
+    <category>Bar</category>
+    <ambience>
+        <crowd>21-30</crowd>
+        <crowd>Hipster</crowd>
+        <light>Dim</light>
+        <structure>Indoors</structure>
+        <ideal_occasion>Friends</ideal_occasion>
+        <ideal_occasion>Date</ideal_occasion>
+        <style>Trendy</style>
+        <size>Small</size>
+        <atmosphere>Energetic</atmosphere>
+        <atmosphere>Quiet</atmosphere>
+        <date_type>Icebreaker</date_type>
+    </ambience>
+    <comments>
+        <overall_price>3</overall_price>
+        <smoking>No</smoking>
+        <closing_time>3:00 am</closing_time>
+        <dancefloor>No</dancefloor>
+    </comments>
+    <food>
+        <available>Yes</available>
+        <details>Pizza</details>
+    </food>
+    <area>
+        <location>Bourke and Exhibition</location>
+    </area>
+  </place>
+
+  <place>
+    <name>Ponyfish Island</name>
+    <category>Bar</category>
+    <ambience>
+        <crowd>21-30</crowd>
+        <crowd>Young Professional</crowd>
+        <light>Well Lit</light>
+        <structure>Outdoors</structure>
+        <ideal_occasion>Date</ideal_occasion>
+        <ideal_occasion>Friends</ideal_occasion>
+        <style>Trendy</style>
+        <style>Conservative</style>
+        <size>Small</size>
+        <atmosphere>Scenic</atmosphere>
+        <atmosphere>Quiet</atmosphere>
+        <atmosphere>Chill</atmosphere>
+        <date_type>Intimate</date_type>
+    </ambience>
+    <comments>
+        <overall_price>2</overall_price>
+        <smoking>No</smoking>
+        <closing_time>1:00 am</closing_time>
+        <dancefloor>No</dancefloor>
+    </comments>
+    <food>
+        <available>Yes</available>
+        <details>Burgers</details>
+    </food>
+    <area>
+        <location>Southbank</location>
+    </area>
+  </place>
+
+  <place>
+    <name>Queensbury Hotel</name>
+    <category>Bar</category>
+    <ambience>
+        <crowd>18-25</crowd>
+        <crowd>Students</crowd>
+        <light>Well lit</light>
+        <structure>Indoors/Outdoors</structure>
+        <ideal_occasion>Friends</ideal_occasion>
+        <style>Pub</style>
+        <size>Large</size>
+        <atmosphere>Loud</atmosphere>
+        <atmosphere>Lively</atmosphere>
+    </ambience>
+    <comments>
+        <overall_price>1</overall_price>
+        <smoking>Yes</smoking>
+        <closing_time>12:00 am</closing_time>
+        <dancefloor>No</dancefloor>
+    </comments>
+    <food>
+        <available>Yes</available>
+        <details>Pub Food</details>
+    </food>
+    <area>
+        <location>Swanston and Queensberry</location>
+    </area>
+  </place>
+
+  <place>
+    <name>Rooftop</name>
+    <category>Bar</category>
+    <ambience>
+        <crowd>21-30</crowd>
+        <crowd>Hipster</crowd>
+        <crowd>Young Professional</crowd>
+        <light>Well Lit</light>
+        <structure>Rooftop</structure>
+        <ideal_occasion>Work</ideal_occasion>
+        <ideal_occasion>Friends</ideal_occasion>
+        <ideal_occasion>Date</ideal_occasion>
+        <style>Trendy</style>
+        <style>Conservative</style>
+        <size>Large</size>
+        <atmosphere>Loud</atmosphere>
+        <atmosphere>Lively</atmosphere>
+        <date_type>Icebreaker</date_type>
+    </ambience>
+    <comments>
+        <overall_price>2</overall_price>
+        <smoking>Yes</smoking>
+        <closing_time>1:00 am</closing_time>
+        <dancefloor>No</dancefloor>
+    </comments>
+    <food>
+        <available>Yes</available>
+        <details>Burgers</details>
+    </food>
+    <area>
+        <location>Swanston and Little Bourke</location>
+    </area>
+  </place>
+
+  <place>
+    <name>Section 8</name>
+    <category>Bar</category>
+    <ambience>
+        <crowd>18-25</crowd>
+        <crowd>Students</crowd>
+        <crowd>Hipster</crowd>
+        <light>Well Lit</light>
+        <structure>Outdoors</structure>
+        <ideal_occasion>Friends</ideal_occasion>
+        <style>Street</style>
+        <style>Trendy</style>
+        <size>Large</size>
+        <atmosphere>Loud</atmosphere>
+        <atmosphere>Energetic</atmosphere>
+    </ambience>
+    <comments>
+        <overall_price>1</overall_price>
+        <smoking>Yes</smoking>
+        <closing_time>1:00 am</closing_time>
+        <dancefloor>Yes</dancefloor>
+    </comments>
+    <food>
+        <available>Yes</available>
+        <details>Light Meals</details>
+    </food>
+    <area>
+        <location>Swanston and Little Bourke</location>
+    </area>
+  </place>
+  <place>
+    <name>Siglo</name>
+    <category>Bar</category>
+    <ambience>
+        <crowd>25-40</crowd>
+        <crowd>Professional</crowd>
+        <light>Dim</light>
+        <structure>Rooftop</structure>
+        <ideal_occasion>Friends</ideal_occasion>
+        <ideal_occasion>Date</ideal_occasion>
+        <style>Conservative</style>
+        <size>Large</size>
+        <atmosphere>Scenic</atmosphere>
+        <atmosphere>Chill</atmosphere>
+        <atmosphere>Quiet</atmosphere>
+        <atmosphere>Daddy</atmosphere>
+        <date_type>Icebreaker</date_type>
+    </ambience>
+    <comments>
+        <overall_price>3</overall_price>
+        <smoking>Yes</smoking>
+        <closing_time>3:00 am</closing_time>
+        <dancefloor>No</dancefloor>
+    </comments>
+    <food>
+        <available>Yes</available>
+        <details>Charcuterie</details>
+    </food>
+    <area>
+        <location>Spring and Little Bourke</location>
+    </area>
+  </place>
+
+  <place>
+    <name>Sun Moth</name>
+    <category>Bar</category>
+    <ambience>
+        <crowd>21-30</crowd>
+        <crowd>Young Professional</crowd>
+        <light>Well Lit</light>
+        <structure>Indoors</structure>
+        <ideal_occasion>Friends</ideal_occasion>
+        <ideal_occasion>Date</ideal_occasion>
+        <style>Trendy</style>
+        <size>Small</size>
+        <atmosphere>Lively</atmosphere>
+        <atmosphere>Loud</atmosphere>
+        <date_type>Icebreaker</date_type>
+    </ambience>
+    <comments>
+        <overall_price>2</overall_price>
+        <smoking>No</smoking>
+        <closing_time>11:00 pm</closing_time>
+        <dancefloor>No</dancefloor>
+    </comments>
+    <food>
+        <available>Yes</available>
+        <details>Cafe</details>
+    </food>
+    <area>
+        <location>Elizabeth and Lonsdale</location>
+    </area>
+  </place>
+
+  <place>
+    <name>The Toff in Town</name>
+    <category>Bar</category>
+    <ambience>
+        <crowd>18-21</crowd>
+        <crowd>Students</crowd>
+        <light>Dark</light>
+        <structure>Indoors</structure>
+        <ideal_occasion>Friends</ideal_occasion>
+        <style>Club</style>
+        <size>Large</size>
+        <atmosphere>Loud</atmosphere>
+        <atmosphere>Energetic</atmosphere>
+    </ambience>
+    <comments>
+        <overall_price>2</overall_price>
+        <smoking>Yes</smoking>
+        <closing_time>5:00 am</closing_time>
+        <dancefloor>Yes</dancefloor>
+    </comments>
+    <food>
+        <available>Yes</available>
+        <details>Thai</details>
+    </food>
+    <area>
+        <location>Swanston</location>
+    </area>
+  </place>
+
+  <place>
+    <name>Union Electric</name>
+    <category>Bar</category>
+    <ambience>
+        <crowd>21-30</crowd>
+        <crowd>Young Professional</crowd>
+        <light>Well-lit</light>
+        <structure>Outdoors</structure>
+        <ideal_occasion>Friends</ideal_occasion>
+        <ideal_occasion>Date</ideal_occasion>
+        <style>Trendy</style>
+        <size>Small</size>
+        <atmosphere>Chill</atmosphere>
+        <atmosphere>Quiet</atmosphere>
+        <date_type>Icebreaker</date_type>
+    </ambience>
+    <comments>
+        <overall_price>2</overall_price>
+        <smoking>Yes</smoking>
+        <closing_time>1:00 am</closing_time>
+        <dancefloor>No</dancefloor>
+    </comments>
+    <food>
+        <available>Yes</available>
+        <details>Asian</details>
+    </food>
+    <area>
+        <location>Swanston and Little Bourke</location>
+    </area>
+  </place>
+
+  <place>
+    <name>Whitehart</name>
+    <category>Bar</category>
+    <ambience>
+        <crowd>21-30</crowd>
+        <crowd>Young Professional</crowd>
+        <light>Well-lit</light>
+        <structure>Indoors/Outdoors</structure>
+        <ideal_occasion>Work</ideal_occasion>
+        <ideal_occasion>Friends</ideal_occasion>
+        <ideal_occasion>Date</ideal_occasion>
+        <style>Trendy</style>
+        <style>Conservative</style>
+        <size>Large</size>
+        <atmosphere>Quiet</atmosphere>
+        <atmosphere>Energetic</atmosphere>
+        <atmosphere>Lively</atmosphere>
+        <date_type>Icebreaker</date_type>
+    </ambience>
+    <comments>
+        <overall_price>2</overall_price>
+        <smoking>Yes</smoking>
+        <closing_time>1:00 am</closing_time>
+        <dancefloor>No</dancefloor>
+    </comments>
+    <food>
+        <available>Yes</available>
+        <details>Food Vans</details>
+    </food>
+    <area>
+        <location>Elizabeth and Little Bourke</location>
+    </area>
+  </place>
+
+  <place>
+    <name>Workshop</name>
+    <category>Bar</category>
+    <ambience>
+        <crowd>18-25</crowd>
+        <crowd>Students</crowd>
+        <light>Dark</light>
+        <structure>Indoors/Outdoors</structure>
+        <ideal_occasion>Friends</ideal_occasion>
+        <ideal_occasion>Date</ideal_occasion>
+        <style>Street</style>
+        <size>Large</size>
+        <atmosphere>Loud</atmosphere>
+        <atmosphere>Energetic</atmosphere>
+        <date_type>Intimate</date_type>
+    </ambience>
+    <comments>
+        <overall_price>1</overall_price>
+        <smoking>Yes</smoking>
+        <closing_time>3:00 am</closing_time>
+        <dancefloor>No</dancefloor>
+    </comments>
+    <food>
+        <available>Yes</available>
+        <details>Pizza</details>
+    </food>
+    <area>
+        <location>Elizabeth and La Trobe</location>
+    </area>
+  </place>
+  <place>
+  <name>Trinket</name>
+  <category>Bar</category>
+  <ambience>
+      <crowd>25-40</crowd>
+      <crowd>Young Professional</crowd>
+      <light>Dim</light>
+      <structure>Indoors</structure>
+      <ideal_occasion>Work</ideal_occasion>
+      <ideal_occasion>Friends</ideal_occasion>
+      <style>Themed</style>
+      <size>Large</size>
+      <atmosphere>Loud</atmosphere>
+      <atmosphere>Energetic</atmosphere>
+  </ambience>
+  <comments>
+      <overall_price>2</overall_price>
+      <smoking>No</smoking>
+      <closing_time>1:00 am</closing_time>
+      <dancefloor>No</dancefloor>
+  </comments>
+  <food>
+      <available>Yes</available>
+      <details>Modern French</details>
+  </food>
+  <area>
+      <location>Exhibition and Flinders Lane</location>
+  </area>
+</place>
+<place>
+  <name>Hana</name>
+  <category>Bar</category>
+  <ambience>
+      <crowd>21-30</crowd>
+      <crowd>Young Professional</crowd>
+      <light>Dim</light>
+      <structure>Indoors</structure>
+      <ideal_occasion>Date</ideal_occasion>
+      <style>Themed</style>
+      <size>Small</size>
+      <atmosphere>Lively</atmosphere>
+      <date_type>Icebreaker</date_type>
+  </ambience>
+  <comments>
+      <overall_price>3</overall_price>
+      <smoking>No</smoking>
+      <closing_time>1:00 am</closing_time>
+      <dancefloor>No</dancefloor>
+  </comments>
+  <food>
+      <available>Yes</available>
+      <details>Hawaiian</details>
+  </food>
+  <area>
+      <location>Swanston St and Little Collins</location>
+  </area>
+</place>
+
+</places>
