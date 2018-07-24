@@ -8,9 +8,9 @@ It is a simple HTML Bootstrap and Javascript site.
 
 ## Usage example
 
-Person 1: Where shall we have drinks tonight?
-Person 2: I don't know
-Person 3: <i>I Know Somewhere</i>
+Person 1: Where shall we have drinks tonight? <br>
+Person 2: I don't know <br>
+Person 3: <i>I Know Somewhere</i> <br>
 
 
 ## Release History
@@ -20,7 +20,7 @@ Person 3: <i>I Know Somewhere</i>
 
 ## Contributers
 
-Grace Geddes
-Ryan Cushen 
-Alex Taylor-Bartels
+Grace Geddes <br>
+Ryan Cushen <br>
+Alex Taylor-Bartels <br>
 
