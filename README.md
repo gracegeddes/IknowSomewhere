@@ -18,6 +18,6 @@ Person 3: <i>I Know Somewhere</i> <br>
 
 ## Contributors
 
+Alex Taylor-Bartels <br>
 Grace Geddes <br>
 Ryan Cushen <br>
-Alex Taylor-Bartels <br>
