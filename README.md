@@ -10,7 +10,7 @@ It is a simple HTML Bootstrap and Javascript site.
 
 Person 1: Where shall we have drinks tonight? <br>
 Person 2: I don't know <br>
-Person 3: <i>I Know Somewhere</i> <br>
+Person 3: <i>I know somewhere...</i> <br>
 
 ## Release History
 
