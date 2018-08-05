@@ -1,6 +1,6 @@
 var MasterBarType = [];
-var str;
-var array = [];
+var masterOccasion = [];
+var masterStyle = [];
 
 $(document).ready(function(){
 	$.ajax({
@@ -8,6 +8,8 @@ $(document).ready(function(){
 		url: "MelbourneNightlife.xml",
 		dataType: "xml",
 		success: function(xml) {
+			// getUniqueValue(xml);
+
 			var select = $('#Category');
 
 			$(xml).find('place').each(function(){
@@ -23,19 +25,45 @@ $(document).ready(function(){
 			};
 			select.children(":first").attr("selected",true);
 
-			var secondSelect = $('#Ambience');
+			var select1 = $('#occasion');
+			var select2 = $('#style');
 
 			$(xml).find('place').each(function(){
 				$(this).find('ambience').each(function(){
+						// var length = value.children().length;
 					$(this).find('ideal_occasion').each(function(){
-						var valueAmbience = $(this).text();
-						secondSelect.append("<option value='"+valueAmbience+"'>"+valueAmbience+"</option>");
+						var occasion = $(this).text();
+						// console.log(valueAmbience);
+						if (jQuery.inArray(occasion, masterOccasion) == -1){masterOccasion.push(occasion)};
+						// console.log(masterOccasion);
+					});
+
+					$(this).find('style').each(function(){
+						var style = $(this).text();
+						//console.log(valueAmbience);
+						if (jQuery.inArray(style, masterStyle) == -1){masterStyle.push(style)};
+						// console.log(masterStyle);
 					});
 				});
 			});
 
+			for (var i = masterOccasion.length - 1; i >= 0; i--) {
+				select1.append("<option value='"+masterOccasion[i]+"'>"+masterOccasion[i]+"</option>");
+			};
+			for (var i = masterStyle.length - 1; i >= 0; i--) {
+				select2.append("<option value='"+masterStyle[i]+"'>"+masterStyle[i]+"</option>");
+			};
+
+
+
+
+	}
 			
 
-		} 
 	}); 
 }); 
+
+function getChildrenValues(value) {
+
+
+}
